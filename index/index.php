@@ -12,7 +12,7 @@
 	<div id="big_wrapper">
 
 
-	<header id="header">VCDEP is awesome</header>
+	<header id="header">software engineering is cool</header>
 	<!-- Displaying the navigation bar -->
 	<nav id="navigation">
 		<ul>Home</ul>
